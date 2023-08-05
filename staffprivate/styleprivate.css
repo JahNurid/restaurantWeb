@@ -1,0 +1,18 @@
+.containerone {
+    display: flex;
+    background-color: goldenrod;
+    flex-direction: column;
+}
+.box {
+    background-color: #ffffcc;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.containertwo {
+    display: flex;
+    background-color: greenyellow;
+    flex-direction: row;
+}
+
